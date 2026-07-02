@@ -24,7 +24,7 @@ $C \in R^{m \times p}$
 
 The matrix multiplication follows the standard definition:
 
-$C(i, k) = $ sum of $A(i, j) \times W(j, k)$
+$C(i, k) =$ sum of $A(i, j) \times W(j, k)$
 
 ## Random number generation
 
@@ -42,7 +42,7 @@ Matrices are stored as one-dimensional vectors using row-major layout.
 
 For a matrix M with `cols` columns:
 
-$M(i, j) $ is stored at:
+$M(i, j)$ is stored at:
 
 $M[i \times cols + j]$
 
@@ -66,7 +66,7 @@ $m, n, p, v_{min}, v_{max}$
 
 Example:
 
-$ m = 2, n = 3, p = 4, v_{min} = -1, v_{max} = 1$
+$m = 2, n = 3, p = 4, v_{min} = -1, v_{max} = 1$
 
 This means:
 
