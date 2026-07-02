@@ -20,7 +20,7 @@ $C = A \times W$
 
 where:
 
-$C \isin R^{m \times p}$
+$C \in R^{m \times p}$
 
 The matrix multiplication follows the standard definition:
 
