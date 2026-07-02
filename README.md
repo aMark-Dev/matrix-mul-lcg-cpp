@@ -1,2 +1,2 @@
 # matrix-mul-lcg-cpp
-This is a study project on matrix multiplication implemented in C++.
+Educational C++ implementation of deterministic LCG random matrix generation and naive row-major matrix multiplication.
